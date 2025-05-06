@@ -9,12 +9,12 @@ A collection of various GTK/XFWM/icon/cursor themes for dotfiles located at [cer
 
 ## Aero
 - **GTK/XFWM:** [B00merang Windows 7 Icons](https://github.com/B00merang-Project/Windows-7)
-- **Icons:** [Windows Vista Icon Theme](https://www.gnome-look.org/p/1499265/)
+- **Icons:** Modified version of [Windows Vista Icon Theme](https://www.gnome-look.org/p/1499265/)
 - **Cursors:** [Windows Vista](https://www.gnome-look.org/p/2061622)
 
 ## Luna
 - **GTK/XFWM:** ???
-- **Icons:** [B00merang Windows XP Icons](https://github.com/B00merang-Artwork/Windows-XP)
+- **Icons:** Modified version of [B00merang Windows XP Icons](https://github.com/B00merang-Artwork/Windows-XP)
 
 ## Memphis
 - **GTK/XFWM:** [Chicago 95](https://github.com/grassmunk/Chicago95)
@@ -23,9 +23,9 @@ A collection of various GTK/XFWM/icon/cursor themes for dotfiles located at [cer
 ## Note
 - **GTK:** [B00merang Android Kitkat](https://github.com/B00merang-Project/Android-Kitkat)
 - **XFWM:** [xfwm4-breeze](https://github.com/mjkim0727/xfwm4-breeze)
-- **Icons:** [Flat Remix (Yellow)](https://www.gnome-look.org/p/1012430)
+- **Icons:** Modified version of [Flat Remix (Yellow)](https://www.gnome-look.org/p/1012430)
 
 ## OSX
 - **GTK:** [B00merang OS X Leopard](https://github.com/B00merang-Project/OS-X-Leopard)
 - **XFWM:** [McOS XFCE Edition](https://github.com/paullinuxthemer/McOS-XFCE-Edition)
-- **Icons:** [B00merang OS X Lion Icons](https://github.com/B00merang-Artwork/Mac-OS-X-Lion)
+- **Icons:** Modified version of [B00merang OS X Lion Icons](https://github.com/B00merang-Artwork/Mac-OS-X-Lion)
